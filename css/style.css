@@ -1,0 +1,48 @@
+.background{
+	background-color:white;
+	border:10px solid brown;
+	
+}
+.background .background-fc{
+	display:flex;
+	flex-wrap:wrap;
+}
+.banner{
+	background-color:khaki;
+    width:35%;
+	height:800px;
+	
+}	
+
+.banner .banner-fc{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+	
+}
+.banner .banner-fc .banner-name{
+	font-size:50px;
+	font-family:calibri;
+justify-content:center;
+ padding:150px;
+}
+.banner .banner-fc .banner-mail{
+	font-size:20px;
+	font-family:arial;
+	padding-bottom:50px;
+   
+}
+.logo{
+	background-color:beige;
+	width:65%;
+	height:800px;
+}
+.logo .logo-fc{
+		display:flex;
+	justify-content:center;
+}
+video{
+	margin-left:0px;
+	padding-top:150px;
+	
+}
